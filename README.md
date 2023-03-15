@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coralinav
-- 👀 I’m interested in ... automation testing
-- 🌱 I’m currently learning ... cucumber + wdio
-- 💞️ I’m looking to collaborate on ... testing
+- 👀 I’m interested in ... automation testing and manual testing
+- 🌱 I’m currently learning ... cucumber + wdio and playwright
+- 💞️ I’m looking to collaborate on ... Automation testing
 - 📫 How to reach me ... mcna97@gmail.com
 
 <!---
